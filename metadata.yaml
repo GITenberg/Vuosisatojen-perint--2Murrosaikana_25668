@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6175
     wikipedia: http://fi.wikipedia.org/wiki/Betty_Elfving
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25668#Vuosisatojen-perint--2Murrosaikana
 gutenberg_issued: '2008-06-01'
 gutenberg_type: Text
 identifiers:
